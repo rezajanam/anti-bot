@@ -206,7 +206,7 @@ function create_config()
     },
     globally_banned = {},
     sudo_users = {
-      [109722284] = '@ArashEmp'
+      [126070255,185181770] = '@ArashEmp'
     }
   }
   save_config()
